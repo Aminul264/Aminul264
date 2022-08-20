@@ -6,6 +6,8 @@
 --->
 -Studying B.Sc. in Computer Science & Engineering at University of Rajshahi
 -Rajshahi,Bangladesh
+:e-mail:
+
 
 <!---
 Aminul264/Aminul264 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
