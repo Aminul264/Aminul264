@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
--Studying B.Sc. in Computer Science & Engineering at University of Rajshahi4
--
+-Studying B.Sc. in Computer Science & Engineering at University of Rajshahi
+-Rajshahi,Bangladesh
 
 <!---
 Aminul264/Aminul264 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
