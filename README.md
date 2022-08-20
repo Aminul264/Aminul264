@@ -6,7 +6,7 @@
 --->
 -Studying B.Sc. in Computer Science & Engineering at University of Rajshahi
 -Rajshahi,Bangladesh
-:e-mail:
+- :e-mail: aminulislam681538@gmail.com
 
 
 <!---
